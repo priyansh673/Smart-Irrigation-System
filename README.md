@@ -1,6 +1,6 @@
 # Smart-Irrigation-System
 
-
+<hr>
 
 
 <b>The ability to grow massive amounts of food in recent times has only been possible with the advent of pesticides, mechanisation, and using a lot of water. However, these practices are often unsustainable, thus ruining the environment and depleting valuable resources in the process. This project is meant to tackle water usage, as being able to pinpoint exactly where water is needed can prevent over-irrigation. 
